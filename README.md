@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height="300" alt="wizwand autoexp" src="https://github.com/user-attachments/assets/7154cfa2-68d9-46d9-a9ee-a8e535e2933e" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/d48a3e14-d609-4b38-84aa-93f45d443e6f" />
 </p>
 
 # AutoExp 
