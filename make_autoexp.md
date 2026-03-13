@@ -2,7 +2,7 @@
 
 You are in a machine learning repository.
 
-Your task is to create a repo-specific `autoexp_program.md` for autonomous training experimentation, based on the instruction below, and a provided template located at https://github.com/wizwand/autoexp/blob/master/program_template.md
+Your task is to create a repo-specific `autoexp_program.md` for autonomous training experimentation, based on the instruction below, and a provided template located at https://github.com/wizwand/autoexp/blob/main/program_template.md
 
 Use the provided generic template as the required structure, but adapt every section to this repository after inspecting the codebase.
 
